@@ -1,6 +1,18 @@
+%% Pan - Tompkins v1.0 (equivalente a TestTemp13.m)
+%
+% Implementación del algoritmo de Pan - Tompkins utilizando la data adjunta 
+% en el archivo DATA.xlsx. Ésta primera implementación genera un gráfico 
+% con el resultado del algoritmo. 
+%
+% Documentación: 
+%
+% - A Real-Time QRS Detection Algorithm - Jiapu Pan and Willis J. Tompkins
 % - Implementation of algorithms for QRS detection from ECG signals using
 % TMS320C6713 processor platform; Geoffrey Green
 %
+%
+
+
 
 close all; clear all; clc
 
